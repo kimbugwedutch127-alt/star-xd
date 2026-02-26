@@ -8,6 +8,6 @@ module.exports = {
   
   
   SESSION_ID: '', // add your session ID
-  PAIRING_NUMBER: '', // In Case if you don't have session id get pairing code by putting your number here
+  PAIRING_NUMBER: '256742518081', // In Case if you don't have session id get pairing code by putting your number here
   TIMEZONE: 'Africa/Harare' // ur timezone
 };
